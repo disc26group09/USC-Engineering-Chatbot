@@ -1,2 +1,2 @@
 # USC-Engineering-Chatbot
-a cjhat bot to answer engineering question
+a chat bot to answer engineering question
